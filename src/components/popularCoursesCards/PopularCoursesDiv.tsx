@@ -12,6 +12,8 @@ const PopularCoursesDiv = () => {
                     </div>
                 );
             })}
+
+            
     </div>
   )
 }

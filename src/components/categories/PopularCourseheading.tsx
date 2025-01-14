@@ -2,8 +2,8 @@
 
 const PopularCourseheading = () => {
   return (
-    <div>
-      <h1>Our Purpose Courses</h1>
+    <div className="popular-course-header">
+      <h1>Our Popular Courses</h1>
     </div>
   )
 }
